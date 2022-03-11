@@ -21,13 +21,13 @@ Project created by <a href="https://github.com/Nasif404">Nasif404</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/Nasif404 /NIYAMWOL ">
+  <a href="https://github.com/Nasif404/NIYAMWOL ">
     <img src="https://img.shields.io/github/repo-size/Nasif404 /NIYAMWOL?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Nasif404 /followers"><img title="Followers" src="https://img.shields.io/github/followers/Nasif404 ?color=red&style=flat-circle"></a>
-<a href="https://github.com/Nasif404 /NIYAMWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nasif404 /NIYAMWOL?color=red&style=flat-square"></a>
-<a href="https://github.com/Nasif404 /NIYAMWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nasif404 /NIYAMWOL?color=red&style=flat-square"></a>
-<a href="https://github.com/Nasif404 /NIYAMWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nasif404 /NIYAMWOL?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/Nasif404/NIYAMWOL/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Nasif404 /NIYAMWOL?color=red&style=flat-square"></a>
+<a href="https://github.com/Nasif404/NIYAMWOL/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Nasif404 /NIYAMWOL?color=red&style=flat-square"></a>
+<a href="https://github.com/Nasif404/NIYAMWOL/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Nasif404 /NIYAMWOL?label=Watchers&color=red&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 
 ```
@@ -54,7 +54,7 @@ the user is responsible.
   ### Simple Method
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nasif404 /NIYAMWOL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nasif404/NIYAMWOL)
      </div>
 <br>
 <br >
