@@ -1,5 +1,5 @@
 /* codded by raashii
-reedited by BADBMODER
+reedited by Nasif404
 use this git under copyright
 dont change credit
 */
@@ -128,8 +128,8 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 │ ʜᴇʏ ᴜsᴇʀ ` + wish + `
 │         *⌚` + time + `*
 │
-┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ✯ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟፝✪ʙᴀᴅʙᴏʏ✯
-┣𝕾⃝🌺 *BOT* : ʙᴀᴅʙᴏʏ
+┣𝕾⃝🌺 *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ✯ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ɴᴀsɪғꪶ͢ᡃ⃝__ɴᴊʀᡃ⃝★✯
+┣𝕾⃝🌺 *BOT* : NIYAMWOL
 ┣𝕾⃝🌺 *ᴠᴇʀsɪᴏɴ* : 2.0.0
 ┣𝕾⃝🌺 *ғᴜʟʟ ᴇᴠᴀ* : ` + eva + `
 ┣𝕾⃝🌺 *ᴀᴜᴛᴏ ʙɪᴏ* : ` + auto_bio + `
@@ -219,7 +219,7 @@ if (config.AUTOBİO == 'false') auto_bio = 'Off'
 ┣𝕾⃝🌺 .sᴇᴛᴠᴀʀ
 │ 
 │
-│   ❏🤪ʙᴀᴅʙᴏʏ ʙᴏᴛ🤪❏
+│   ❏🤪NIYAMWOL BOT🤪❏
 ╰──────────────────╯
 `}) 
 
